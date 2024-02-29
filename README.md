@@ -11,7 +11,7 @@ A simple stopwatch implemented in JavaScript with the ability to record lap time
 
 ## Demo
 
-https://i-rohitkr.github.io/stopwatch/
+https://i-rohitkr.github.io/Stopwatch./
 
 
 ## Usage
